@@ -1,0 +1,58 @@
+library(tidyverse)
+read.csv("C:\Users\aarus\Downloads\
+read.csv("AUENV 234/21336063")
+read.csv("C:\Users\aarus\OneDrive\Desktop\AUENV 234\21336063.csv")
+getwd()
+read.csv("21336063")
+getwd()
+read.csv("Documents/AUENV 234 Course Project/21336063.csv")
+get.csv("Documents/AUENV 234 Course Project/21336063.csv")
+getwd("Documents/AUENV 234 Course Project/21336063.csv")
+getwd("AUENV 234 Course Project/21336063.csv")
+HOBO1 <- getwd("AUENV 234 Course Project/21336063.csv")
+HOBO1 <- read.csv("AUENV 234 Course Project/21336063.csv")
+HOBO1 <- read_csv("C:\Users\aarus\OneDrive\Documents\AUENV 234 Course Project\21336063.csv")
+HOBO1 <- read_csv("C:/Users/aarus/OneDrive/Documents/AUENV 234 Course Project/21336063.csv")
+View(HOBO1)
+View(HOBO1)
+ggplot(data = HOBO1)
+ggplot(data = HOBO1) +
+geom_point(mapping = aes (x = Ch: Light  (lux)))
+# HOBO 6063
+HOBO1 <- read_csv("C:/Users/aarus/OneDrive/Documents/AUENV 234 Course Project/21336063.csv")
+View(HOBO1)
+View(HOBO1)
+# HOBO 6063
+HOBO1 <- read_csv("C:/Users/aarus/OneDrive/Documents/AUENV 234 Course Project/21336063.csv")
+# HOBO 6063
+HOBO1 <- read_csv("C:/Users/aarus/OneDrive/Documents/AUENV 234 Course Project/21336063.csv")
+View(HOBO1)
+View(HOBO1)
+# HOBO 6063
+HOBO1 <- read_csv("C:/Users/aarus/OneDrive/Documents/AUENV 234 Course Project/21336063 updated.csv")
+library(tidyverse)
+# HOBO 6063
+HOBO1 <- read_csv("C:/Users/aarus/OneDrive/Documents/AUENV 234 Course Project/21336063 updated.csv")
+# HOBO 6063
+HOBO1 <- read_csv("C:/Users/aarus/OneDrive/Documents/AUENV 234 Course Project/21336063 updated.csv"
+View(HOBO1)
+View(HOBO1)
+ggplot(data = HOBO1)
+# HOBO 6063
+HOBO1 <- read_csv("C:/Users/aarus/OneDrive/Documents/AUENV 234 Course Project/21336063 updated.csv")
+# HOBO 6063
+HOBO1 <- read_csv("C:/Users/aarus/OneDrive/Documents/AUENV 234 Course Project/21336063 updated.csv")
+library(readr)
+X21336063_2022_09_06_18_03_57_MDT_Data_MDT_21336063_2022_09_06_18_03_57_MDT_Data_MDT_ <- read_csv("21336063 2022-09-06 18_03_57 MDT (Data MDT) - 21336063 2022-09-06 18_03_57 MDT (Data MDT).csv")
+View(X21336063_2022_09_06_18_03_57_MDT_Data_MDT_21336063_2022_09_06_18_03_57_MDT_Data_MDT_)
+View(X21336063_2022_09_06_18_03_57_MDT_Data_MDT_21336063_2022_09_06_18_03_57_MDT_Data_MDT_)
+View(HOBO1)
+# HOBO 6063
+HOBO6063 <- read_csv("C:/Users/aarus/OneDrive/Documents/
+AUENV 234 Course Project/21336063
+2022-09-06 18_03_57 MDT (Data MDT) -
+21336063 2022-09-06 18_03_57 MDT (Data MDT).csv")
+View(HOBO6063)
+View(HOBO6063)
+View(X21336063_2022_09_06_18_03_57_MDT_Data_MDT_21336063_2022_09_06_18_03_57_MDT_Data_MDT_)
+View(X21336063_2022_09_06_18_03_57_MDT_Data_MDT_21336063_2022_09_06_18_03_57_MDT_Data_MDT_)
